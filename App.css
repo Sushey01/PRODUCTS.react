@@ -1,0 +1,13 @@
+
+.app{ 
+  margin: 10px; 
+} 
+ 
+.flex{ 
+  display: flex; 
+  margin-left: 10px; 
+} 
+ 
+.justify-between{ 
+  justify-content: space-between; 
+}
